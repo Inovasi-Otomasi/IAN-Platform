@@ -5,7 +5,7 @@
 [IOTECH Website] - Checkout our website
 [DEMO] - Our Online Demo/POC
 
-IAN Dashboard adalah dashboard penunjuang IAN Platform untuk menampilkan dashboard yang menarik dan multifungsi kepada pengguna
+IAN Dashboard adalah dashboard penunjuang sebagai media untuk visualisasi data yang didapat oleh IAN Platform untuk menampilkan dashboard yang menarik dan multifungsi kepada pengguna
 
 ![IAN Platform](https://www.iotech.co.id/images/Ian%20Dashboard.png)
 
