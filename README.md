@@ -10,7 +10,9 @@ IAN Platform adalah sebuah IOT Platform yang dikembangkan oleh PT. Inovasi Otoma
 
 
 ## Authors
-IAN Platform is a project based on Node-RED, a Low-code programming for event-driven applications
+IAN Platform adalah project pengembangan dari OpenJS
+
+
 
 ## Copyright and license
 
