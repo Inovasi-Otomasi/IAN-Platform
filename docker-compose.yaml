@@ -1,0 +1,17 @@
+services:
+  nodered:
+    container_name: noderedTrial
+    image: michaeljuaniot/ian-platfrom-img:latest
+    restart: always
+    environment:
+      - TZ=Asia/Jakarta
+    ports:
+      - "1880:1880"
+    networks:
+      - public
+    volumes:
+      - node_red_data_aaa:/data
+volumes:
+  node_red_data_aaa:
+networks:
+  public:
